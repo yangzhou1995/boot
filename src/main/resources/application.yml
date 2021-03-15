@@ -1,0 +1,7 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: zhy   #服务名称
+
